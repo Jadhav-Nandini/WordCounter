@@ -2,7 +2,7 @@
 
 <h2>Features </h2>Text Input: Allows users to enter text in a resizable text area.<br> Word Count: Displays the total number of words entered after clicking the "Click to count" button. <br>Real-Time Update: Counts words accurately and shows the result dynamically. 
 
-<h2>Technologies Used</h2> 
+<h2>👩‍💻Technologies Used</h2> 
 
 Java: Core language used for the application logic. <br>
 
